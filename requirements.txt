@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e6a80beaa45d009a471991d902ec4807b55af966b1b929b2f36cc3b42cdab2f2
-size 63
+openai
+langchain
+python-dotenv
+PyMuPDF
+Pillow
+requests
